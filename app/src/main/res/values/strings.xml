@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticaN2</string>
+    <string name="nombre">Nombre Completo:</string>
+    <string name="fecha">Fecha De Nacimiento</string>
+    <string name="telefono">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="descripcion">Descripcion:</string>
+<!--BOTONES-->
+    <string name="boton1">Siguente</string>
+    <string name="boton2">Editar Datos</string>
+
+</resources>
